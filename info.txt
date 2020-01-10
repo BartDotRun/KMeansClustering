@@ -1,0 +1,58 @@
+Attributes to use:
+10 Attributes = {
+    StandingTackle
+    SlidingTackle
+    Dribble
+    Acceleration
+    SprintSpeed
+    Finishing
+    Crossing
+    ShortPassing
+    LongPassing
+    GKPositioning
+}
+
+Teams to use: {
+    Ajax
+    PSV
+    Feyenoord
+    AZ Alkmaar
+    Vitesse
+    FC Utrecht
+    Heracles Almelo
+    FC Groningen
+    ADO Den Haag
+    Willem II
+}
+
+All positions:
+DF      = Defender
+SW      = Sweeper
+RWB     = Right Wing Back
+LWB     = Left Wing Back
+LB      = Left Full Back
+CB      = Center Back
+LCB     = Left Center Back
+RCB     = Right Center Back
+
+MF      = Midfielder
+CAM     = Central Attacking Midfielder
+CDM     = Central Defending Midfielder
+LDM     = Left Defending Midfielder
+RDM     = Right Defending Midfielder
+LAM     = Left Attacking Midfielder
+RAM     = Right Attacking midfielder
+DM      = Defensive Mid / Fielder
+LM      = Left Midfielder
+RM      = Right Midfielder
+AM      = Attacking Midfielder
+
+FW      = Forwarder
+LS      = Left Side
+RS      = Right Side
+LW      = Left Wing
+RW      = Right Wing
+ST      = Striker
+CF      = Center Forward
+LF      = Left Forward
+RF      = Right Forward
